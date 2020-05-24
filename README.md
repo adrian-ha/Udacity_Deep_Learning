@@ -1,2 +1,3 @@
 # Udacity_Deep_Learning
- TBD
+
+This repository contains the code for Udacity's Deep Learning Nanodegree.
